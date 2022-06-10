@@ -5,7 +5,7 @@
 // Take a look at conf.php.example file for an example of conf.php file
 // and explanations for all possibles parameters.
 //
-$dolibarr_main_url_root='http://localhost:8080';
+$dolibarr_main_url_root='http://localhost:8081';
 $dolibarr_main_document_root='/var/www/html';
 $dolibarr_main_url_root_alt='/custom';
 $dolibarr_main_document_root_alt='/var/www/html/custom';
@@ -28,7 +28,7 @@ $dolibarr_main_prod='0';
 $dolibarr_main_force_https='0';
 $dolibarr_main_restrict_os_commands='mysqldump, mysql, pg_dump, pgrestore';
 $dolibarr_nocsrfcheck='0';
-$dolibarr_main_instance_unique_id='833a1236b188fd8161434c2145394c8d';
+$dolibarr_main_instance_unique_id='3b9ffdf5ade67f671a7c74e47aca18ed';
 $dolibarr_mailing_limit_sendbyweb='0';
 
 //$dolibarr_lib_FPDF_PATH='';
